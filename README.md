@@ -11,8 +11,7 @@ This project analyzes layoff trends across different industries, countries, and 
 │   ├── exploratory_data.sql  (Data analysis & insights)  
 │── 📂 Data  
 │   ├── layoffs.csv  (Original dataset)  
-│── README.md  (Project documentation)  
-│── .gitignore  (Ignore unnecessary files)  
+│── README.md  (Project documentation)   
 ```
 
 ## 📊 Key Features
